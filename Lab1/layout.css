@@ -8,21 +8,24 @@ body {
 }
 header , nav , article ,div , footer {
     padding: 10px;
-    background-color:yellow ;
-    border: 1px solid gray;
+    background-color:salmon ;
+    border: 1px solid greenyellow;
     text-align: center;
 }
 header {
     width: 100%;
+    background-color: skyblue;
 }
 footer {
     width: 100%;
     clear: both;
+    background-color: aquamarine;
 }
 nav {
     width: 20%;
     height: 200px;
     float: left;
+    background-color: plum;
 }
 article {
     width: 60%;
@@ -33,4 +36,5 @@ div {
     width: 20%;
     height: 200px;
     float: left;
+    background-color: #F4A460;
 }
