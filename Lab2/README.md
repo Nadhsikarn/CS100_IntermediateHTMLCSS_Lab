@@ -35,8 +35,8 @@ By the end of this lab, students will update an HTML and CSS file for the Grandm
 - In the CSS (`styles1.css`), the navigation is styled to be horizontal using inline-block:
 ```css
 nav ul li {
-  display: inline-block;
-  margin: 0 15px;
+  display: block;
+  margin: 15px 0;
 }
 ```
 
